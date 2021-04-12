@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm willian</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p> Recentemente me formei como Desenvolvedor Full Stack Na Le Wagon, Com experiencias em Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git, Git</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
