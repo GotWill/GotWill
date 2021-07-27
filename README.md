@@ -1,13 +1,55 @@
-<h1 align="center">Hi 👋, I'm willian</h1>
-<h3 align="center">Full Stack Developer</h3>
-<p>I recently graduated as a Full Stack Developer at Le Wagon, with experience in Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git, Git</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/willian21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willian pereira" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100022067898785" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="willian souza" height="30" width="40" /></a>
-<a href="https://instagram.com/pereira_will23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pereira_will23" height="30" width="40" /></a>
+# ola, Sou.Willian!
+<br>
+  Recentemente me formei como Full Stack Developer na Le Wagon, com experiência em Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git, Git
+  
+  
+    <br><br>
+   Language usage Stats
+   
+    <p>
+  <a href="https://github.com/GotWill">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GotWill&hide=html&layout=compact&langs_count=10" /> 
+  </a>
+  <br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<h2 align="left">Technologies & Tools</h2>
+
+
+### Frontend
+
+<code>![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</code> &nbsp;&nbsp;
+<code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</code> &nbsp;&nbsp;
+
+### Frameworks
+
+<code>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
+
+### Languages
+
+<code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
+<code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
+
+### Database
+
+<code>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</code> &nbsp;&nbsp;
+
+### Deploy
+
+<code>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
+
+<br>
+<p>
+ <a href="https://github.com/GotWill">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GotWill&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Will GitHub Stats" />
+  </a>
+ </p>
+<br>
+
+## Find me on Linkedin
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/willian-pereira-58379a203)
+
