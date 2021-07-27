@@ -3,10 +3,8 @@
   Recentemente me formei como Full Stack Developer na Le Wagon, com experiência em Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git, Git
   
   
-    <br><br>
    Language usage Stats
    
-    <p>
   <a href="https://github.com/GotWill">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GotWill&hide=html&layout=compact&langs_count=10" /> 
   </a>
