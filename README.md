@@ -1,4 +1,4 @@
-# ola, Sou.Willian!
+# Ola. Sou Willian!
 <br>
   Recentemente me formei como Full Stack Developer na Le Wagon, com experiência em Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git, Git.  Eu tenho muito interesse em continuar aprendendo para aprimorar minhas habilidades.
   
