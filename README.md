@@ -1,6 +1,6 @@
 # Ola. Sou Willian!
 <br>
-  Recentemente me formei como Full Stack Developer na Le Wagon, com experiência em Ruby on Rails, PostgreSQL, API, HTML, CSS, JavaScript, Bootstrap, Git e GitHub.  Eu tenho muito interesse em continuar aprendendo para aprimorar minhas habilidades.
+  sou Willian. sou um cara fascinado pelo mundo da tecnologia, desde dos meus 15 anos de idade já tinha uma certa curiosidade sobre esse mercado, mais eu realmente me joguei de cabeça após iniciar o bootcamp da Le Wagon, onde aprendi diversas linguagem e ferramentas pra me auxiliar nos desenvolvimentos, umas delas são Ruby on Ralis, Html, Css e JavaScript, e no momento estou entrando com o framework Vue.js, curto bastante o mundo dos esportes estou sempre me envolvendo em aprender coisas novas. e também curto a ideia de "pensar fora da caixa", inclusive eu impõe isso no meu dia a dia, e no momento estou a procura de uma oportunidade pra me recolocar no mercado de trabalho, e mesmo não possuir experiência profissional acredito que posso acrescentar algo no ambiente de trabalho e uma curiosidade imensa em aprender!
   
   <br><br>
    Language usage Stats
