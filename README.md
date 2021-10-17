@@ -19,6 +19,8 @@
 <code>![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</code> &nbsp;&nbsp;
 <code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</code> &nbsp;&nbsp;
+<code>![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)</code> &nbsp;&nbsp;
+
 
 ### Frameworks
 
@@ -50,4 +52,6 @@
 ## Find me on Linkedin
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/willian-pereira-58379a203)
+<code>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</code> &nbsp;&nbsp
+
 
