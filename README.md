@@ -54,6 +54,5 @@
 ## Find me on Linkedin
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/willian-pereira-58379a203)
-<code>![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</code> &nbsp;&nbsp
 
 
