@@ -1,6 +1,7 @@
 # Ola. Sou Willian!
 <br>
 Antes de qualquer coisa, eu quero dizer pra você que eu amo programar!
+<br></br>
 
 
 Meu primeiro contato com as linhas de códigos foi no início da pandemia, assim como eu a pandemia foi um gatilho pra outros migrarem pra esse mercado, e já de início já consegui visualizar o quanto esse mercado seria promissor. E apartir do momento que comecei a estudar, eu simplesmente Amei! E Conseguiu enxergar que através da programação poderia tira minhas ideias do papel e aplica no código, e consequentemente ajudar outros, através do conhecimento, mas realmente me joguei de cabeça após iniciar Bootcamp da lê Wagom, através dela que elevei meus conhecimentos, e com todo conhecimento adquirido foi o suficiente pra colocar a mão na Massa! E a cada Aplicação que desenvolvo a minha paixão cresce cada vez mais, e além do conhecimento que adquiro, sou um cara fascinado pela tecnologia tô sempre me envolvendo em coisas novas, sou extremamente curioso gosto de saber como que as coisa funciona pro traz dos panos acho isso essencial, e atualmente procuro minha primeira oportunidade mesmo nao possuído experiência na área acredito que tenho muito a agregar, e uma imensa vontade em aprender!
