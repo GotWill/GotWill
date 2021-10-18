@@ -1,6 +1,9 @@
 # Ola. Sou Willian!
 <br>
-  sou Willian. sou um cara fascinado pelo mundo da tecnologia, desde dos meus 15 anos de idade já tinha uma certa curiosidade sobre esse mercado, mais eu realmente me joguei de cabeça após iniciar o bootcamp da Le Wagon, onde aprendi diversas linguagem e ferramentas pra me auxiliar nos desenvolvimentos, umas delas são Ruby on Ralis, Html, Css e JavaScript, e no momento estou entrando com o framework Vue.js, curto bastante o mundo dos esportes estou sempre me envolvendo em aprender coisas novas. e também curto a ideia de "pensar fora da caixa", inclusive eu impõe isso no meu dia a dia, e no momento estou a procura de uma oportunidade pra me recolocar no mercado de trabalho, e mesmo não possuir experiência profissional acredito que posso acrescentar algo no ambiente de trabalho e uma curiosidade imensa em aprender!
+Antes de qualquer coisa, eu quero dizer pra você que eu amo programar!
+
+
+Meu primeiro contato com as linhas de códigos foi no início da pandemia, assim como eu a pandemia foi um gatilho pra outros migrarem pra esse mercado, e já de início já consegui visualizar o quanto esse mercado seria promissor. E apartir do momento que comecei a estudar, eu simplesmente Amei! E Conseguiu enxergar que através da programação poderia tira minhas ideias do papel e aplica no código, e consequentemente ajudar outros, através do conhecimento, mas realmente me joguei de cabeça após iniciar Bootcamp da lê Wagom, através dela que elevei meus conhecimentos, e com todo conhecimento adquirido foi o suficiente pra colocar a mão na Massa! E a cada Aplicação que desenvolvo a minha paixão cresce cada vez mais, e além do conhecimento que adquiro, sou um cara fascinado pela tecnologia tô sempre me envolvendo em coisas novas, sou extremamente curioso gosto de saber como que as coisa funciona pro traz dos panos acho isso essencial, e atualmente procuro minha primeira oportunidade mesmo nao possuído experiência na área acredito que tenho muito a agregar, e uma imensa vontade em aprender!
   
   <br><br>
    Language usage Stats
