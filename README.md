@@ -1,7 +1,9 @@
 # 💫 About Me:
-Antes de qualquer coisa, eu quero dizer para você que eu amo programar!
+Desenvolvedor Full Stack com foco em Front-End, com experiência em JavaScript, TypeScript, React, Next.js, PHP, entre outras tecnologias. Sou movido pela curiosidade e paixão por aprender — estou sempre buscando evoluir, seja por meio de cursos, bootcamps ou desafios práticos.  
 
-Meu primeiro contato com as linhas de códigos foi no início da pandemia, assim como eu a pandemia foi um gatilho para outros migrarem para esse mercado, e já de início já consegui visualizar o quanto esse mercado seria promissor. E a partir do momento que comecei a estudar, eu simplesmente Amei! E Conseguiu enxergar que através da programação poderia tirar minhas ideias do papel e aplica no código, e consequentemente ajudar outros através do conhecimento, mas realmente me joguei de cabeça após iniciar Bootcamp da lê Wagom, através dela que elevei meus conhecimentos, e com todo conhecimento adquirido foi o suficiente para colocar a mão na Massa! E a cada Aplicação que desenvolvo a minha paixão crescia cada vez mais, sou um cara fascinado pela tecnologia, estou sempre me envolvendo em coisas novas, sou extremamente curioso, gosto de saber como que as coisas funciona pro traz dos panos, acho isso essencial.
+Tenho vivência na criação de e-commerces (usando plataformas como Tray, Yampi e Irroba) e no desenvolvimento de sistemas web personalizados, do planejamento à entrega. Também atuei na criação de dashboards interativos com o Looker Studio.  Tenho especial interesse em criar interfaces intuitivas, responsivas e com boa usabilidade, mas também me sinto confortável no back-end.  
+
+Prezo por código limpo, boas práticas e por entregar valor real por meio da tecnologia.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100022067898785&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eaemanowill/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian21/) 
