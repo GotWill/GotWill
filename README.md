@@ -1,7 +1,9 @@
 # 💫 About Me:
 Desenvolvedor Full Stack com foco em Front-End, com experiência em JavaScript, TypeScript, React, Next.js, PHP, entre outras tecnologias. Sou movido pela curiosidade e paixão por aprender — estou sempre buscando evoluir, seja por meio de cursos, bootcamps ou desafios práticos.  
 
-Tenho vivência na criação de e-commerces (usando plataformas como Tray, Yampi e Irroba) e no desenvolvimento de sistemas web personalizados, do planejamento à entrega. Também atuei na criação de dashboards interativos com o Looker Studio.  Tenho especial interesse em criar interfaces intuitivas, responsivas e com boa usabilidade, mas também me sinto confortável no back-end.  
+Tenho vivência na criação de e-commerces (usando plataformas como Tray, Yampi e Irroba) e no desenvolvimento de sistemas web personalizados, do planejamento à entrega. Também atuei na criação de dashboards interativos com o Looker Studio. 
+
+Tenho especial interesse em criar interfaces intuitivas, responsivas e com boa usabilidade, mas também me sinto confortável no back-end.  
 
 Prezo por código limpo, boas práticas e por entregar valor real por meio da tecnologia.
 
